@@ -1,0 +1,8 @@
+{
+  "links": [
+    { "id": 1, "name": "olama",  "url": "https://olama.com",           "desc": "free ai tools", "icon": "O" },
+    { "id": 5, "name": "Newsletter", "url": "https://newsletter.example.com","desc": "Weekly dispatch",            "icon": "N" }
+  ],
+  "updatedAt": "2026-01-01T00:00:00.000Z",
+  "version": 1
+}
