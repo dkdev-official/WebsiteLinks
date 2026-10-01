@@ -1,6 +1,6 @@
 {
   "links": [
-    { "name": "Google", "url": "https://google.com", "desc": "Search engine", "icon": "G" },
-    { "name": "YouTube", "url": "https://youtube.com", "desc": "Videos", "icon": "Y" }
+    { "name": "olama", "url": "https://olama.com", "desc": "free ai tools", "icon": "O" },
+    { "name": "dkdevgames", "url": "https://dkdev-official.github.io/dkdevgames/#games", "desc": "free games", "icon": "D" }
   ]
 }
