@@ -1,6 +1,11 @@
 {
   "links": [
-    { "name": "olama", "url": "https://olama.com", "desc": "free ai tools", "icon": "O" },
-    { "name": "dkdevgames", "url": "https://dkdev-official.github.io/dkdevgames/#games", "desc": "free games", "icon": "D" }
+    { "name": "ollama", "url": "https://ollama.com", "desc": "free ai tools", "icon": "O" },
+    { "name": "dkdevgames", "url": "https://dkdev-official.github.io/dkdevgames/#games", "desc": "free games", "icon": "D" },
+    { "name": "openmontage", "url": "https://github.com/calesthio/OpenMontage", "desc": "ai video studio", "icon": "M" },
+    { "name": "omniroute", "url": "https://github.com/diegosouzapw/OmniRoute", "desc": "ai models router", "icon": "R" },
+    { "name": "voicebox", "url": "https://voicebox.sh", "desc": "free voice cloning", "icon": "V" },
+    { "name": "nemotron-ultra", "url": "https://build.nvidia.com/nvidia/nemotron-3-ultra-550b-a55b/modelcard", "desc": "nvidia open ai model", "icon": "N" },
+    { "name": "meetily", "url": "https://meetily.ai", "desc": "local meeting notes", "icon": "E" }
   ]
 }
