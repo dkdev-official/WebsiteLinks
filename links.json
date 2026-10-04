@@ -8,6 +8,7 @@
     { "name": "nemotron-ultra", "url": "https://build.nvidia.com/nvidia/nemotron-3-ultra-550b-a55b/modelcard", "desc": "nvidia open ai model", "icon": "N" },
     { "name": "meetily", "url": "https://meetily.ai", "desc": "local meeting notes", "icon": "E" },
     { "name": "open-generative-ai", "url": "https://muapi.ai/open-generative-ai", "desc": "free ai image video studio", "icon": "G" },
+    { "name": "theresansiforthat", "url": "https://theresanaiforthat.com/", "desc": "free ai image video studio", "icon": "T" },
     { "name": "ideogram", "url": "https://ideogram.ai", "desc": "ai images with text", "icon": "I" },
     { "name": "hyperframes", "url": "https://hyperframes.app", "desc": "html to video maker", "icon": "H" }
   ]
