@@ -11,5 +11,6 @@
     { "name": "theresansiforthat", "url": "https://theresanaiforthat.com/", "desc": "free ai image video studio", "icon": "T" },
     { "name": "ideogram", "url": "https://ideogram.ai", "desc": "ai images with text", "icon": "I" },
     { "name": "hyperframes", "url": "https://hyperframes.app", "desc": "html to video maker", "icon": "H" }
+    { "name": "hollyflix", "url": "https://dkdev-official.github.io/Hollyflix/", "desc": "movie reviews", "icon": "H" }
   ]
 }
